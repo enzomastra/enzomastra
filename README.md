@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hola!+Soy+Enzo+%F0%9F%91%8B;*slaps+the+Omnitrix*+%E2%8C%9A;Transforming+into...+Computer+Engineer!+%F0%9F%91%BD;Computer+Engineer+from+Argentina+%F0%9F%87%A6%F0%9F%87%B7;I+build+AI+stuff+%F0%9F%A7%A0;I+automate+stuff+so+I+can+drink+mate+%F0%9F%A7%89;git+push+--force+(just+kidding...+or+am+I%3F)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hola!+Soy+Enzo+%F0%9F%91%8B;*slaps+the+Omnitrix*+%E2%8C%9A;Transforming+into...+Software+Engineer!+%F0%9F%91%BD;Software+Engineer+from+Argentina+%F0%9F%87%A6%F0%9F%87%B7;I+build+AI+stuff+%F0%9F%A7%A0;I+automate+stuff+so+I+can+drink+mate+%F0%9F%A7%89;git+push+--force+(just+kidding...+or+am+I%3F)" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 ```js
 const enzo = {
   location:      "Argentina 🇦🇷",
-  role:          "Computer Engineer",
+  role:          "Software Engineer",
   askMeAbout:    ["AI agents", "automations", "full-stack apps", "fernet ratios"],
   funFact:       "My avatar is a monkey with a MacBook. It is an accurate representation.",
 };
